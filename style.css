@@ -1,0 +1,38 @@
+
+body {
+	background-color: lightblue;
+    margin: 0 auto;
+    width: 70%;
+    
+font-family: font-family: 'Roboto', sans-serif;
+
+    background-image: url("images/stardust.png");
+
+}
+
+}
+p {
+    width: 90%;
+    line-height: 1.8;
+    text-align: justify;
+    color: white;
+}
+.alert{
+    color: red;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6em;
+    color:red;
+}
+h2 {
+    font-size: 2em;
+    color: #666;
+    position: fixed;
+    top: 40px;
+    right: 40px;
+    color:blue;
+    font-weight:normal;
+}
